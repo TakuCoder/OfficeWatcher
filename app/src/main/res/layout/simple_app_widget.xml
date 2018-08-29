@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/tvWidget"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/widget_margin"
+        android:background="#ff6200"
+        android:contentDescription="thiyagu"
+        android:gravity="center"
+        android:text="checkin"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"/>
+
+
+    <Button
+        android:id="@+id/tvWidget1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/widget_margin"
+        android:background="#ff6200"
+        android:contentDescription="thiyagu"
+        android:gravity="center"
+        android:text="checkout"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>
