@@ -10,7 +10,7 @@
         android:background="#ff6200"
         android:contentDescription="thiyagu"
         android:gravity="center"
-        android:text="checkin"
+        android:text="IN"
         android:textColor="#ffffff"
         android:textSize="24sp"
         android:textStyle="bold|italic"/>
@@ -24,7 +24,7 @@
         android:background="#ff6200"
         android:contentDescription="thiyagu"
         android:gravity="center"
-        android:text="checkout"
+        android:text="OUT"
         android:textColor="#ffffff"
         android:textSize="24sp"
         android:textStyle="bold|italic" />
